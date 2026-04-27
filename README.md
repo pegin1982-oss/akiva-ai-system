@@ -1,3 +1,18 @@
+akiva-ai-system/
+│
+├── app.py
+├── ai_engine/
+│   ├── classifier.py
+│   └── nlp.py
+│
+├── data/
+│   ├── train_data.json
+│   └── logs.json
+│
+├── requirements.txt
+└── README.md
+ 
+ 
 # AI-система поддержки ООО "АКИВА"
  
 ## Описание
